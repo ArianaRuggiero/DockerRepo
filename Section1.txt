@@ -1,1 +1,0 @@
-#Completed Section 1: Docker Orientation and Setup
