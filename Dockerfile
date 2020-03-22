@@ -2,10 +2,10 @@
 FROM node:current-slim
 
 # Set the working directory
-WORKDIR ~/my_image
+WORKDIR /app
 
 # Copy the file from your host to your current location
-COPY package.json .
+COPY . /app
 
 # Run the command inside your image filesystem
 RUN npm install
@@ -18,3 +18,4 @@ CMD [ "npm", "start" ]
 
 # Copy the rest of your app's source code from your host to your image filesyst$
 COPY . .
+
