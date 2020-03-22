@@ -1,7 +1,8 @@
 Part 1: Orientation and Setup
 
 
-<img width="620" alt="Screen Shot 2020-03-22 at 12 56 32 AM" src="https://user-images.githubusercontent.com/60370127/77242732-27057b00-6bd8-11ea-8540-88188a235a14.png">
+<img width="619" alt="Screen Shot 2020-03-22 at 12 56 32 AM" src="https://user-images.githubusercontent.com/60370127/77242818-1efa0b00-6bd9-11ea-9ecb-eb60b1e1f7a5.png">
+
 
 
 
